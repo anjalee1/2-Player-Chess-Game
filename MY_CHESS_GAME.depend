@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1592038889 source:c:\users\dell\desktop\new folder\my_chess_game\chess.cpp
+	"chess.h"
+	<cstdlib>
+
+1592039927 c:\users\dell\desktop\new folder\my_chess_game\chess.h
+	<iostream>
+	<cmath>
+	<string>
+
+1592038889 source:c:\users\dell\desktop\chess game folder\my_chess_game\chess.cpp
+	"chess.h"
+	<cstdlib>
+
+1592039986 c:\users\dell\desktop\chess game folder\my_chess_game\chess.h
+	<iostream>
+	<cmath>
+	<string>
+

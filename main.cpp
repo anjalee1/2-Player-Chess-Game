@@ -20,7 +20,7 @@ int main()
 
 	while(newgame){
 		b.setBoard();
-		while (b.playGame());
+		while (b.playGame())
 		cout << "Do you want to play again? (y for yes, anything else for no) ";
 		cin >> s;
 		if (s != "y")

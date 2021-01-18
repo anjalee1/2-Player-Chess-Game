@@ -17,3 +17,17 @@
 	<cmath>
 	<string>
 
+1592038889 source:c:\users\dell\desktop\chess game folder\my_chess_game\2-player-chess-game\chess.cpp
+	"chess.h"
+	<cstdlib>
+
+1592039986 c:\users\dell\desktop\chess game folder\my_chess_game\2-player-chess-game\chess.h
+	<iostream>
+	<cmath>
+	<string>
+
+1592039994 source:c:\users\dell\desktop\chess game folder\my_chess_game\2-player-chess-game\main.cpp
+	<iostream>
+	<string>
+	"chess.h"
+
